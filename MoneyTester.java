@@ -6,7 +6,6 @@ public class MoneyTester
 		Money m2 = new Money(5, 80); // set dollars to 5 and cents to 80 Money
 		Money m3 = new Money();  // initialize dollars to 0 and cents to 0
 
-		System.out.println("\tMagnus Chiu " + "CIS35A Winter 2022  Lab 4"); // use your name
 		System.out.println("m1 = " + m1);
 		System.out.println("m2 = " + m2);
 		System.out.println("m3 = " + m3);
